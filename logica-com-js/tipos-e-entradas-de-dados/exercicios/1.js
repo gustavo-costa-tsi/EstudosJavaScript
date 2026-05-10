@@ -1,0 +1,1 @@
+/*Peça ao usuário que digite o ano em que nasceu. Converta esse valor para número inteiro e calcule sua idade em 2025. Mostre uma frase no formato: Você nasceu em XXXX e hoje tem YY anos.*/
