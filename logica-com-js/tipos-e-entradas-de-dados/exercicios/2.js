@@ -1,1 +1,0 @@
-/*Solicite ao usuário que digite seu peso (em kg) e sua altura (em metros). Converta para números decimais e calcule o IMC usando a fórmula peso / (altura * altura). Mostre o resultado com duas casas decimais. */
